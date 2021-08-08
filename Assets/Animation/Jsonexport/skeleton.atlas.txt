@@ -1,0 +1,75 @@
+
+skeleton.png
+size: 784,1512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+unknown
+  rotate: false
+  xy: 2, 2
+  size: 777, 1505
+  orig: 777, 1505
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1932,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/brazo_derecho
+  rotate: true
+  xy: 1279, 381
+  size: 164, 649
+  orig: 164, 649
+  offset: 0, 0
+  index: -1
+assets/brazo_izquierdo
+  rotate: true
+  xy: 600, 2
+  size: 143, 566
+  orig: 143, 566
+  offset: 0, 0
+  index: -1
+assets/cabeza
+  rotate: false
+  xy: 1279, 12
+  size: 394, 367
+  orig: 394, 367
+  offset: 0, 0
+  index: -1
+assets/pie_derecho
+  rotate: false
+  xy: 1675, 166
+  size: 207, 107
+  orig: 207, 107
+  offset: 0, 0
+  index: -1
+assets/pie_izquierdo
+  rotate: false
+  xy: 1675, 275
+  size: 217, 104
+  orig: 217, 104
+  offset: 0, 0
+  index: -1
+assets/pierna_derecha
+  rotate: true
+  xy: 600, 313
+  size: 232, 677
+  orig: 232, 677
+  offset: 0, 0
+  index: -1
+assets/pierna_izquierda
+  rotate: true
+  xy: 600, 147
+  size: 164, 667
+  orig: 164, 667
+  offset: 0, 0
+  index: -1
+assets/torso
+  rotate: true
+  xy: 2, 74
+  size: 471, 596
+  orig: 471, 596
+  offset: 0, 0
+  index: -1

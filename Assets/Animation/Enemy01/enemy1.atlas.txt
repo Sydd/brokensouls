@@ -1,0 +1,153 @@
+
+enemy1.png
+size: 120,658
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ak47
+  rotate: true
+  xy: 2, 369
+  size: 157, 67
+  orig: 159, 69
+  offset: 1, 1
+  index: -1
+images/antebrazo
+  rotate: true
+  xy: 2, 317
+  size: 50, 55
+  orig: 52, 57
+  offset: 1, 1
+  index: -1
+images/bota_adelante
+  rotate: true
+  xy: 2, 17
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+images/bota_atras
+  rotate: true
+  xy: 85, 117
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+images/brazo_adelante
+  rotate: true
+  xy: 85, 166
+  size: 60, 32
+  orig: 62, 34
+  offset: 1, 1
+  index: -1
+images/brazo_atras
+  rotate: false
+  xy: 2, 68
+  size: 46, 42
+  orig: 48, 44
+  offset: 1, 1
+  index: -1
+images/cabeza
+  rotate: false
+  xy: 2, 153
+  size: 81, 73
+  orig: 83, 75
+  offset: 1, 1
+  index: -1
+images/casco
+  rotate: false
+  xy: 2, 228
+  size: 97, 87
+  orig: 97, 87
+  offset: 0, 0
+  index: -1
+images/cuello
+  rotate: false
+  xy: 2, 112
+  size: 50, 39
+  orig: 52, 41
+  offset: 1, 1
+  index: -1
+images/granada
+  rotate: false
+  xy: 50, 38
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+images/hombro_atras
+  rotate: false
+  xy: 83, 16
+  size: 34, 54
+  orig: 36, 56
+  offset: 1, 1
+  index: -1
+images/mano
+  rotate: true
+  xy: 54, 114
+  size: 37, 29
+  orig: 39, 31
+  offset: 1, 1
+  index: -1
+images/mano_2
+  rotate: true
+  xy: 85, 72
+  size: 43, 33
+  orig: 45, 35
+  offset: 1, 1
+  index: -1
+images/mano_atras
+  rotate: true
+  xy: 101, 288
+  size: 27, 17
+  orig: 29, 19
+  offset: 1, 1
+  index: -1
+images/mano_atras_2
+  rotate: false
+  xy: 38, 2
+  size: 36, 34
+  orig: 38, 36
+  offset: 1, 1
+  index: -1
+images/muslo
+  rotate: true
+  xy: 71, 421
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+images/muslo_atras
+  rotate: true
+  xy: 71, 474
+  size: 52, 41
+  orig: 54, 43
+  offset: 1, 1
+  index: -1
+images/palma_atras
+  rotate: true
+  xy: 54, 78
+  size: 34, 19
+  orig: 36, 21
+  offset: 1, 1
+  index: -1
+images/pierna
+  rotate: false
+  xy: 59, 317
+  size: 52, 49
+  orig: 54, 51
+  offset: 1, 1
+  index: -1
+images/pierna_atras
+  rotate: false
+  xy: 71, 368
+  size: 41, 51
+  orig: 43, 53
+  offset: 1, 1
+  index: -1
+images/torso
+  rotate: true
+  xy: 2, 528
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
